@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+It was my personal website
 <!--
 **jyothiprajith1323/jyothiprajith1323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
